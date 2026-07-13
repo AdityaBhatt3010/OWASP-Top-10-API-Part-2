@@ -9,7 +9,7 @@
 
 Before diving into Part 2, check out Part 1:
 
-* GitHub Repo: [https://github.com/AdityaBhatt3010/OWASP-Top-10-API-THM-Part-1](https://github.com/AdityaBhatt3010/OWASP-Top-10-API-Part-1)
+* GitHub Repo: [https://github.com/AdityaBhatt3010/OWASP-Top-10-API-Part-1](https://github.com/AdityaBhatt3010/OWASP-Top-10-API-Part-1)
 
 ---
 
