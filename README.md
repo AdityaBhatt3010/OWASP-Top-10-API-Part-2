@@ -1,4 +1,4 @@
-# 🛡️ OWASP API Top 10 — TryHackMe Walkthrough (Part 2)
+# 🛡️ OWASP API Top 10 (Part 2)
 
 **Keywords:** OWASP API Top 10, API Security, Mass Assignment, Injection, Security Misconfiguration <br/>
 **Description:** Hands-on exploitation and mitigation of advanced API vulnerabilities with real-world scenarios.
@@ -9,8 +9,7 @@
 
 Before diving into Part 2, check out Part 1:
 
-* [Read Part 1 on Medium](https://happycamper84.medium.com/owasp-api-security-top-10-1-tryhackme-walkthrough-252f2a6ecd49?utm_source=chatgpt.com)
-* GitHub Repo: [https://github.com/AdityaBhatt3010/OWASP-Top-10-API-THM-Part-1](https://github.com/AdityaBhatt3010/OWASP-Top-10-API-THM-Part-1)
+* GitHub Repo: [https://github.com/AdityaBhatt3010/OWASP-Top-10-API-THM-Part-1](https://github.com/AdityaBhatt3010/OWASP-Top-10-API-Part-1)
 
 ---
 
@@ -26,7 +25,7 @@ Now in Part 2, things get more **backend-heavy and dangerous** — focusing on:
 * Legacy API exposure
 * Logging failures
 
-👉 APIs are the backbone of modern applications, and misconfigurations here can lead to **full system compromise** ([TryHackMe][1])
+👉 APIs are the backbone of modern applications, and misconfigurations here can lead to **full system compromise** 
 
 ![](OWASP_API_2/Cover.jpeg)
 
@@ -34,7 +33,7 @@ Now in Part 2, things get more **backend-heavy and dangerous** — focusing on:
 
 # 📌 Task 1 — Environment Setup
 
-We start by launching the TryHackMe machine which includes:
+We start by launching the machine which includes:
 
 * Windows VM
 * Talend API Tester
